@@ -9,7 +9,7 @@ Program ini menerima tiga bilangan dan menentukan bilangan terbesarnya menggunak
 3. Tampilkan bilangan terbesar.
 
 ## Flowchart
-![alt text](?raw=true)
+![alt text](https://github.com/wigifrisdyanto/labspy02/blob/main/Screenshot%20(25).png?raw=true)
 
 ## Contoh Hasil Eksekusi
 1. *Input:* 10, 20, 30
