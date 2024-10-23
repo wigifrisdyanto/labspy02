@@ -9,7 +9,7 @@ Program ini menerima tiga bilangan dan menentukan bilangan terbesarnya menggunak
 3. Tampilkan bilangan terbesar.
 
 ## Flowchart
-(Sertakan gambar flowchart di sini)
+![alt text](?raw=true)
 
 ## Contoh Hasil Eksekusi
 1. *Input:* 10, 20, 30
@@ -18,3 +18,4 @@ Program ini menerima tiga bilangan dan menentukan bilangan terbesarnya menggunak
    - *Output:* Bilangan terbesarnya adalah: 5
 3. *Input:* -10, -20, -5
    - *Output:* Bilangan terbesarnya adalah: -5
+![alt text](?raw=true)
